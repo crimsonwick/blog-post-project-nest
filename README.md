@@ -1,3 +1,7 @@
+# Blog Post Project | Backend | NestJS
+** The backend of blog post project reimplemented in NestJS and GraphQL API.
+[Figma Link](https://www.figma.com/file/UtP0GuthZFuX58vCytu2kU/Kwanso-Blog?type=design&node-id=764-2&mode=design)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
